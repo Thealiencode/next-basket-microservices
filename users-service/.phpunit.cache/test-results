@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\UsersControllerTest::testInvalidUserData":8},"times":{"App\\Tests\\UsersControllerTest::testCreateUser":0.542,"App\\Tests\\UsersControllerTest::testInvalidUserData":0.01}}
